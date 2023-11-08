@@ -1,5 +1,4 @@
-packaging
-git+https://github.com/EncoreTechnologies/py-zabbix.git
+git+https://github.com/EncoreTechnologies/py-zabbix@update/add-required-dependency
 st2client
 pytz
 tzlocal
